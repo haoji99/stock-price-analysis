@@ -13,4 +13,4 @@ The analysis includes moving averages, return calculations, rolling volatility e
 Python · pandas · matplotlib · akshare
 
 ## Sample output
-![Stock Analysis](stock_analysis.png)
+![Prediction Result](332.png)
