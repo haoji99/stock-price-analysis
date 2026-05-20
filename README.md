@@ -1,7 +1,8 @@
-# A-Share Stock Price Analysis
+# Financial Time Series Analysis of A-Share Stocks
 
-This project retrieves and analyses historical price data for A-share stocks 
-using Python, with a focus on trend identification and volatility measurement.
+## Project Objective
+This project uses Python to retrieve and analyse historical A-share stock market data. 
+The analysis includes moving averages, return calculations, rolling volatility estimation, and data visualisation to explore market trends and risk characteristics.
 
 ## What this project does
 - Retrieves 3-year daily price data via the akshare API
